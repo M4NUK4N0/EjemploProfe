@@ -8,7 +8,7 @@ from PIL import Image
 import base64
 
 st.title("Conversión de Texto a Audio")
-image = Image.open('gato_raton.png')
+image = Image.open('Markimoofnaf.png')
 st.image(image, width=350)
 with st.sidebar:
     st.subheader("Esrcibe y/o selecciona texto para ser escuchado.")
@@ -20,12 +20,7 @@ except:
     pass
 
 st.subheader("Una pequeña Fábula.")
-st.write('¡Ay! -dijo el ratón-. El mundo se hace cada día más pequeño. Al principio era tan grande que le tenía miedo. '  
-         ' Corría y corría y por cierto que me alegraba ver esos muros, a diestra y siniestra, en la distancia. ' 
-         ' Pero esas paredes se estrechan tan rápido que me encuentro en el último cuarto y ahí en el rincón está '  
-         ' la trampa sobre la cual debo pasar. Todo lo que debes hacer es cambiar de rumbo dijo el gato...y se lo comió. ' 
-         '  '
-         ' Franz Kafka.'
+st.write("Hello everybody, my name is Markiplier, and welcome to Five Nights At Freddy's an indie horror game that you, guys, suggested in mass, and I saw that YummyMass played it and he said that it was really really good. So, I'm very eager to see whats up. And that is a terrifying animatronic bear. Family pizzeria looking for security guard to work the nightshift...Oh.   12:00AM / 1ST NIGHT. 12am. The first night..If I didn't want to stay the first night, why would I saty anymore than five?"
         
         )
            
