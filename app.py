@@ -7,7 +7,7 @@ from gtts import gTTS
 from PIL import Image
 import base64
 
-st.title("Conversión de Texto a Audio")
+st.title("WARNING: SCARIEST GAME IN YEARS | Five Nights at Freddy's - Part 1")
 image = Image.open('Markimoofnaf.png')
 st.image(image, width=350)
 with st.sidebar:
