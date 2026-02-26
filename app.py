@@ -19,7 +19,7 @@ try:
 except:
     pass
 
-st.subheader("Una pequeña Fábula.")
+st.subheader("Intro del video.")
 st.write("Hello everybody, my name is Markiplier, and welcome to Five Nights At Freddy's an indie horror game that you, guys, suggested in mass, and I saw that YummyMass played it and he said that it was really really good. So, I'm very eager to see whats up. And that is a terrifying animatronic bear. Family pizzeria looking for security guard to work the nightshift...Oh.   12:00AM / 1ST NIGHT. 12am. The first night..If I didn't want to stay the first night, why would I saty anymore than five?"
         
         )
